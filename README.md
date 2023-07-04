@@ -8,7 +8,7 @@ The elements are fire, water, earth and air. Respectively their names are Teri,M
 
 <img src="https://github.com/Furkan-GH/UnityGame/assets/92176041/a86147b0-56f9-4f74-9141-eb2e27356df7" width="450" height="145">
 
-The game is 2D game. Its genre is action and platform. Its endless running game.
+The game is 2D. It is genre is action and platform. Its endless running game.
 When the game starts, obstacles come throught you and you turn into the right soul for passing the obstacles.
 Sometimes, Enemy comes. Turn into fire soul and shoot it.
 Sometimes, Big plant comes. Turn into earth soul and destroy it.
