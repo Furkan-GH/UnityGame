@@ -1,5 +1,5 @@
 # UnityGame
-<img src="https://github.com/Furkan-GH/UnityGame/assets/92176041/328bb9cf-5cf2-42c6-9f24-100d98cb127b" width="180" height="120">It's my first unity game. Its name is 4 Soul. The game is about that four element's infinite run.
+<img src="https://github.com/Furkan-GH/UnityGame/assets/92176041/328bb9cf-5cf2-42c6-9f24-100d98cb127b" width="180" height="120">It's my first unity game. Its name is 4 Soul.The game is about that four element's infinite run.
 
 ### The game's software, effects, animations and background are made by me.
 
