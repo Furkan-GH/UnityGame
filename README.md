@@ -16,10 +16,15 @@ Sometimes, Small hole comes. Turn into water soul and get small.
 Dont forget, just air soul can jump.
 
 Playable q,w,e,r,space and arrow keys.
+
 Press Q for turning into air soul.
+
 Press W for turning into fire soul.
+
 Press E for turning into earth soul.
+
 Press R for turning into water soul.
+
 Press space for using the special force.
 
 I would like to share video from my game with you.Please look at the files.
